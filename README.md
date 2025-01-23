@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-a1hp.vercel.app/](https://my-portfolio-a1hp.vercel.app/)
 
-- 💬 Ask me about **DSA, React.js, JavaScript**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **shreshaacharya@gmail.com**
 
